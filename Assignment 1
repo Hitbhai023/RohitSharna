@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Function with no arguments and no return value
+
 void addition() {
     int a, b;
     printf("Enter two numbers for addition: ");
